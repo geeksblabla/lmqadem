@@ -1,11 +1,11 @@
-name: Top GitHub Users
+name: GitHub Moroccan active users
 on:
   schedule:
     - cron: "* */24 * * *"
   workflow_dispatch:
 jobs:
   release:
-    name: GitHub Moroccan active users
+    name: Fetch users
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2.3.4
