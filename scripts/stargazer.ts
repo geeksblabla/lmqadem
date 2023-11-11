@@ -2,13 +2,8 @@ import users from "../cache/morocco.json" with { type: "json" };
 
 const API = "https://gh-users-stars.soubai.workers.dev/user";
 const TOKEN = Deno.env.get("TOKEN");
-
-
 const stargazer = async (user: string) => await (await fetch(`${API}/${user}`, { method: "GET", headers: { "X-Authorization": TOKEN } })).json()
-
-
 const wait = (ms = 1000) => new Promise(resolve => setTimeout(resolve, ms));
-
 
 
 for (let i = 0; i < users.length; i++) {
@@ -24,9 +19,6 @@ for (let i = 0; i < users.length; i++) {
         await wait(750);
     }
 
-    // debugging mode
-    break;
-
 }
 
 try {
@@ -37,7 +29,6 @@ try {
         lastUpdate: new Date().toISOString()
     }));
 
-    console.log(Deno.readFileSync(filename))
     console.log("Done");
 
 } catch (error) {
