@@ -37,6 +37,9 @@ try {
         lastUpdate: new Date().toISOString()
     }));
 
+    console.log(Deno.readFileSync(filename))
+    console.log("Done");
+
 } catch (error) {
     console.log("Error: ", error);
 }
