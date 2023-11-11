@@ -24,14 +24,20 @@ for (let i = 0; i < users.length; i++) {
         await wait(750);
     }
 
+    // debugging mode
+    break;
+
 }
 
-const filename = "./cache/morocco-shiny.json"
+try {
+    const filename = "./cache/morocco-shiny.json"
+    await Deno.create(filename);
+    Deno.writeTextFileSync(filename, JSON.stringify({
+        users,
+        lastUpdate: new Date().toISOString()
+    }));
 
-await Deno.create(filename);
+} catch (error) {
+    console.log("Error: ", error);
+}
 
-
-Deno.writeTextFileSync(filename, JSON.stringify({
-    users,
-    lastUpdate: new Date().toISOString()
-}));
