@@ -1,11 +1,11 @@
-name: GitHub Moroccan active users
+name: Rank GitHub Moroccan active users by stars
 on:
   schedule:
     - cron: "* */36 * * *"
   workflow_dispatch:
 jobs:
   stargazer:
-    name: Fetch users
+    name: Stargazing users
     runs-on: ubuntu-20.04
     permissions:
       # Give the default GITHUB_TOKEN write permission to commit and push the

@@ -14,13 +14,17 @@ const wait = (ms = 1000) => new Promise(resolve => setTimeout(resolve, ms));
 for (let i = 0; i < users.length; i++) {
     const user = users[i];
     console.log("Processing: ", user.login);
-    const stars = await stargazer(user.login);
-    users[i] = { ...user, ...stars };
-    await wait();
+
+    try {
+        const stars = await stargazer(user.login);
+        users[i] = { ...user, ...stars };
+    } catch (error) {
+        console.log("Error: ", error);
+    } finally {
+        await wait(750);
+    }
+
 }
-
-
-// Save to file
 
 const filename = "./cache/morocco-shiny.json"
 
