@@ -10,6 +10,7 @@ jobs:
     permissions:
       # Give the default GITHUB_TOKEN write permission to commit and push the
       contents: write
+
     steps:
       - uses: actions/checkout@v2.3.4
         with:
@@ -21,8 +22,7 @@ jobs:
         env:
           TOKEN: ${{ secrets.API_TOKEN }}
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Commit & Push changes
+        uses: actions-js/push@master
         with:
-          commit_message: "Update morocco-shiny.json"
-          add_options: "-A"
-          commit_author: soub4i
+          github_token: ${{ secrets.CUSTOM_TOKEN }}
