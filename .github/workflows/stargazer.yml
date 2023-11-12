@@ -1,7 +1,7 @@
 name: Rank GitHub Moroccan active users by stars
 on:
   schedule:
-    - cron: "* */36 * * *"
+    - cron: "0 1 * * 0"
   workflow_dispatch:
 jobs:
   stargazer:
