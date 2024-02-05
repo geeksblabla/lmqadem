@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" alt="Morocco">
 </a>
 
-The `public contributions` and `private contributions` by users in Morocco on `2024/2/5 3:02 AM UTC`. This list contains users from `Morocco` and cities.
+The `public contributions` and `private contributions` by users in Morocco on `2024/2/5 3:31 AM UTC`. This list contains users from `Morocco` and cities.
 
 There are `1 countries` and `0 cities` can be found [here](https://github.com/geeksblabla/lmqadem).
 
@@ -200,8 +200,8 @@ There are `991 users`  in Morocco. You need at least `22 followers` to be on thi
 		<td>@tetouan-developers  </td>
 		<td>No Twitter Username</td>
 		<td>Tetouan, Morocco.</td>
-		<td>682</td>
-		<td>4816</td>
+		<td>684</td>
+		<td>4818</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -1298,6 +1298,20 @@ There are `991 users`  in Morocco. You need at least `22 followers` to be on thi
 	<tr>
 		<td>86</td>
 		<td>
+			<a href="https://github.com/otmaneechchafyky">
+				<img src="https://avatars.githubusercontent.com/u/70438968?s=72&u=42fc06a1edbb66734e01d65fc1ba3dee4095e70a&v=4" width="24" alt="Avatar of otmaneechchafyky"> otmaneechchafyky
+			</a><br/>
+			Otmane Echchafyky (Dusk)
+		</td>
+		<td>@microverseinc  </td>
+		<td><a href="https://twitter.com/EchchafykyO">EchchafykyO</a></td>
+		<td>Morocco,Rabat</td>
+		<td>1482</td>
+		<td>1482</td>
+	</tr>
+	<tr>
+		<td>87</td>
+		<td>
 			<a href="https://github.com/larbisahli">
 				<img src="https://avatars.githubusercontent.com/u/52937392?s=72&u=3d81d70afa1949011c02935d35f436138671597a&v=4" width="24" alt="Avatar of larbisahli"> larbisahli
 			</a><br/>
@@ -1308,20 +1322,6 @@ There are `991 users`  in Morocco. You need at least `22 followers` to be on thi
 		<td>Morocco Rabat</td>
 		<td>59</td>
 		<td>1478</td>
-	</tr>
-	<tr>
-		<td>87</td>
-		<td>
-			<a href="https://github.com/otmaneechchafyky">
-				<img src="https://avatars.githubusercontent.com/u/70438968?s=72&u=42fc06a1edbb66734e01d65fc1ba3dee4095e70a&v=4" width="24" alt="Avatar of otmaneechchafyky"> otmaneechchafyky
-			</a><br/>
-			Otmane Echchafyky (Dusk)
-		</td>
-		<td>@microverseinc  </td>
-		<td><a href="https://twitter.com/EchchafykyO">EchchafykyO</a></td>
-		<td>Morocco,Rabat</td>
-		<td>1477</td>
-		<td>1477</td>
 	</tr>
 	<tr>
 		<td>88</td>
@@ -1587,7 +1587,7 @@ There are `991 users`  in Morocco. You need at least `22 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Rabat, Morocco</td>
 		<td>526</td>
-		<td>1308</td>
+		<td>1309</td>
 	</tr>
 	<tr>
 		<td>107</td>
@@ -4485,7 +4485,7 @@ There are `991 users`  in Morocco. You need at least `22 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Khouribga, Morocco</td>
 		<td>129</td>
-		<td>514</td>
+		<td>516</td>
 	</tr>
 	<tr>
 		<td>314</td>

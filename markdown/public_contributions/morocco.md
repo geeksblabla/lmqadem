@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" alt="Morocco">
 </a>
 
-The `public contributions` by users in Morocco on `2024/2/5 3:02 AM UTC`. This list contains users from `Morocco` and cities.
+The `public contributions` by users in Morocco on `2024/2/5 3:31 AM UTC`. This list contains users from `Morocco` and cities.
 
 There are `1 countries` and `0 cities` can be found [here](https://github.com/geeksblabla/lmqadem).
 
@@ -609,7 +609,7 @@ There are `991 users`  in Morocco. You need at least `22 followers` to be on thi
 		<td>@microverseinc  </td>
 		<td><a href="https://twitter.com/EchchafykyO">EchchafykyO</a></td>
 		<td>Morocco,Rabat</td>
-		<td>1477</td>
+		<td>1482</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -1610,7 +1610,7 @@ There are `991 users`  in Morocco. You need at least `22 followers` to be on thi
 		<td>@tetouan-developers  </td>
 		<td>No Twitter Username</td>
 		<td>Tetouan, Morocco.</td>
-		<td>682</td>
+		<td>684</td>
 	</tr>
 	<tr>
 		<td>117</td>
