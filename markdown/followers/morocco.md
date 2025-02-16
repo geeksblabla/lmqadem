@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" alt="Morocco">
 </a>
 
-The `number of followers` of users in Morocco on `2025/2/9 1:47 AM UTC`. This list contains users from `Morocco` and cities.
+The `number of followers` of users in Morocco on `2025/2/16 1:50 AM UTC`. This list contains users from `Morocco` and cities.
 
 There are `1 countries` and `0 cities` can be found [here](https://github.com/geeksblabla/lmqadem).
 
