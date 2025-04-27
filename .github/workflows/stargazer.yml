@@ -6,7 +6,7 @@ on:
 jobs:
   stargazer:
     name: Stargazing users
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     permissions:
       # Give the default GITHUB_TOKEN write permission to commit and push the
       contents: write
